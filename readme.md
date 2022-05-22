@@ -1,4 +1,5 @@
 # ajsharda17 (Chai_rbf)
+<a class="github-button" href="https://github.com/ajsharda17" data-color-scheme="no-preference: dark; light: dark; dark: light;" data-size="large" aria-label="Follow @ajsharda17 on GitHub">Follow @ajsharda17</a>
 
 Hey everyone!
 
