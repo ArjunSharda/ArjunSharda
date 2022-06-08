@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👔 Proficiency **Python**
+- 👔 Proficiency: **Python**
 
 - 📄 Commission me [https://www.chairbfscommissions.cf/](https://www.chairbfscommissions.cf/)
 
