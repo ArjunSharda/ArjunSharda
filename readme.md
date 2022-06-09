@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I am Arjun Sharda</h1>
-<h3 align="center">Fullstack developer.</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F76F6E&background=FF000000&multiline=true&lines=Fullstack+developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajsharda17&label=Profile%20views&color=0e75b6&style=flat" alt="ajsharda17" /> </p>
 
