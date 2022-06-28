@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunsharda" alt="arjunsharda" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chairbf1" target="blank"><img src="https://img.shields.io/twitter/follow/chairbf1?logo=twitter&style=for-the-badge" alt="chairbf1" /></a> </p>
-
-- 🔭 I’m currently working on [Mathician](https://github.com/ajsharda17/Mathician)
+- 🔭 I’m currently working on [TimeConv](https://github.com/ajsharda17/TimeConv)
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -19,8 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chairbf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chairbf1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chairbf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chairbf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
