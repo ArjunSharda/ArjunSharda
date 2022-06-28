@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I am Arjun Sharda</h1>
-<h3 align="center">Fullstack developer.</h3>
+<h1 align="center">:wave: Hey, I am Arjun Sharda</h1>
+<h3 align="center">I am a fullstack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsharda&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsharda" /> </p>
 
