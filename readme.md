@@ -11,7 +11,7 @@
 
 - 👔 Proficiency: **Python**
 
-- 📄 Commission me: [https://www.chairbfscommissions.cf/](https://www.chairbfscommissions.cf/)
+- 📄 Commission me here: [https://www.chairbfscommissions.cf/](https://www.chairbfscommissions.cf/)
 
 - ⚡ Fun fact: **I love making pull requests**
 </p>
