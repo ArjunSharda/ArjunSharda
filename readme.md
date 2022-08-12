@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunsharda" alt="arjunsharda" /></a> </p>
 
-- 🔭 I’m currently working on [TimeConv](https://github.com/ajsharda17/TimeConv)
+- 🔭 I’m currently working on [TimeConv](https://github.com/ArjunSharda/TimeConv)
 
 - 🌱 I’m currently learning **TypeScript**
 
