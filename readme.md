@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [TimeConv](https://github.com/ArjunSharda/TimeConv)
 
+- 📝 I write articles on [Medium](https://medium.com/@arjunsharda)
+
 - 🌱 I’m currently learning **TypeScript**
 
 - 👔 Proficiency: **Python, HTML, CSS, JavaScript, and TypeScript**
