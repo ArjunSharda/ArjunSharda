@@ -1,6 +1,9 @@
-<h1 align="center">:wave: Hey, I am Arjun Sharda</h1>
-<h3 align="center"> Fullstack developer.</h3>
-
+<h1 align="center">👋💻 Hi, I am Arjun Sharda</h1>
+<h3 align="center"> Fullstack developer</h3>
+ 🚀 Hi, i'm Arjun Sharda. I'm a full-stack developer and speaker. I love programming, and you might catch me in my free time contributing to open source or making a new project.
+<br>
+</br>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsharda&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsharda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunsharda" alt="arjunsharda" /></a> </p>
